@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mandorklungsu
+- 👋 Hi, I’m @hidayatakhyar
 - 👀 I’m interested in DevOps and programing
 - 🌱 I’m currently learning CI/CD
 - 📫 How to reach me (Via chatting or email)
