@@ -2,11 +2,10 @@
 
 👀 I’m interesting with DevOps Engineer and Fullstack Developer
 
-🤙 Let's be Friends : [LinkedIn] - [Portfolio]
+🤙 Let's be Friends : [LinkedIn] 
 
 
 [LinkedIn]: https://www.linkedin.com/in/ahmad-hidayat-akhyar/
-[Portfolio]: https://hidayatakhyar.github.io/akhyar.github.io/
 
 
 <!---
