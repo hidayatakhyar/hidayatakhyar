@@ -1,6 +1,6 @@
 ## Hi 👋, Akhyar here!
 
-👀 I’m interesting with DevOps Engineer and Fullstack Developer
+👀 I’m interesting with DevOps Engineer 
 
 🤙 Let's be Friends : [LinkedIn] 
 
