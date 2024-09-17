@@ -5,7 +5,7 @@
 🤙 Let's be Friends : [LinkedIn] 
 
 
-[LinkedIn]: https://www.linkedin.com/in/ahmad-hidayat-akhyar/
+[LinkedIn]: https://www.linkedin.com/in/hidayat-akhyar/
 
 
 <!---
